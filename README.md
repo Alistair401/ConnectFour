@@ -1,2 +1,7 @@
 # ConnectFour
-A tiny project made with Haskell
+The classic "Connect Four" game made with Haskell and the Gloss package.
+
+Dependencies:
+* Cabal
+* QuickCheck
+* Gloss
