@@ -5,5 +5,6 @@ Dependencies:
 * Cabal
 * Gloss
 
-Screenshot:\
-![screenshot](images\screenshot.png)
+Screenshot:
+
+![screenshot](images/screenshot.png)
